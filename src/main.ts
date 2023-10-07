@@ -1,7 +1,7 @@
-import './global-jasmine'
-import 'jasmine-core/lib/jasmine-core/jasmine-html.js';
-import 'jasmine-core/lib/jasmine-core/boot.js';
-
+// import './global-jasmine'
+// import 'jasmine-core/lib/jasmine-core/jasmine-html.js';
+// import 'jasmine-core/lib/jasmine-core/boot.js';
+//
 // import jasmineRequire from 'jasmine-core/lib/jasmine-core.js';
 
 import 'zone.js';
