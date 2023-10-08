@@ -3,10 +3,10 @@
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "outDir": "./out-tsc/app",
-    "types": []
+    "types": ["jasmine"]
   },
   "files": [
-    "src/main.ts"
+    "src/main-test.ts"
   ],
   "include": [
     "src/**/*.d.ts"

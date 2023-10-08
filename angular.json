@@ -22,7 +22,7 @@
           "options": {
             "outputPath": "dist/stackblitz-angular",
             "index": "src/index.html",
-            "main": "src/main.ts",
+            "main": "src/main-test.ts",
             "polyfills": [
               "zone.js"
             ],
