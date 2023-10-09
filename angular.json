@@ -96,7 +96,8 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [],
+            "karmaConfig": "karma.conf.js"
           }
         },
         "lint": {
@@ -115,6 +116,7 @@
     "schematicCollections": [
       "@angular-eslint/schematics",
       "@ngrx/schematics"
-    ]
+    ],
+    "analytics": "6f4a2ce1-10a4-466a-ad9e-d835aff357dd"
   }
 }
