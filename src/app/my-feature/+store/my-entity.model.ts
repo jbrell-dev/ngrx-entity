@@ -1,4 +1,4 @@
 export interface MyEntity {
-  id: string;
+  id: number;
   name: string;
 }
